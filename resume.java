@@ -45,7 +45,7 @@ class resume{
 		System.out.println("Father Name - Shrikant Soni");
 		System.out.println("Date of Birth - 16/03/2000");
 		System.out.println("Marital Status - Unmarried");
-		System.out.println("Genral -  Male");
+		System.out.println("Gender -  Male");
 		System.out.println("Religion - Hindu");
 		System.out.println("Nationality - India");
 		System.out.println("________________________________________________________________________________");
